@@ -11,3 +11,4 @@ def roll
     #random number using range
   rand(1..6)
 end
+end
